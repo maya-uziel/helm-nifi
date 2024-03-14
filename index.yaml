@@ -46,6 +46,6 @@ entries:
       url: https://github.com/zakaria2905
     name: nifi
     urls:
-    - https://github.com/maya-uziel/helm-nifi/nifi-1.2.1.tgz
+    - https://github.com/maya-uziel/helm-nifi
     version: 1.2.1
 generated: "2024-03-14T11:00:09.155492043Z"
